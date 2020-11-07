@@ -27,6 +27,14 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+        {
+         //Create a navbar 
+        }
+        <div style={{display: "flex", justifyContent: "space-around"}}>
+          <Link to="/" style={{color:"white",textDecoration: "none"}}>Home</Link>
+          <Link to="/page-2" style={{color:"white", textDecoration:"none"}}>How To</Link>
+          <Link to="/about" style={{color:"white", textDecoration:"none"}}>About</Link>
+        </div>
     </div>
   </header>
 )
