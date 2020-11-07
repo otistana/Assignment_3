@@ -10,7 +10,9 @@ const About = () =>{
             <SEO title="About"/>
             <img src="/images/me.jpg" alt="Me"/>
             <h1>This is About Me!</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quidem atque obcaecati inventore id ut tempora impedit quam unde vitae. Labore laborum amet facere suscipit perspiciatis error officia quaerat, repellendus hic doloribus dolorum quas quia quasi iusto enim nulla minus vitae nihil mollitia quos a deleniti molestiae ea? Labore id reprehenderit facilis nemo illo, exercitationem culpa ex corrupti obcaecati iure perferendis voluptate nulla quasi fugiat ducimus totam at nostrum tenetur et, adipisci consequuntur. Culpa nostrum voluptatibus ducimus nihil reiciendis recusandae perferendis voluptatum. Nam amet sunt incidunt quam minima magnam aperiam ea velit officia tempora, accusamus ullam. Iusto molestiae blanditiis architecto!</p>
+            <p>Hello, my name is T'Ana Otis (Tianna). I'm from Norfolk Virginia, but raised in Dallas, Texas. I am currently serving in the Army National Guard. I love what I do 
+                in the military and wouldn't change it for the world. I also like to read a lot mostly romance but its what i enjoy.
+            </p>
             <Link to="/">Back to Home</Link>
         </Layout>
     )
